@@ -1,0 +1,14 @@
+door
+apple
+
+level
+computer
+cinema
+
+book
+radar
+aaaa
+stats
+
+bb
+error

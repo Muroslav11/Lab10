@@ -1,0 +1,4 @@
+1. Lines starting with given char: 2
+2. Lines with same start and end: 5
+3. Lines with all identical chars: 2
+4. Empty lines: 3
